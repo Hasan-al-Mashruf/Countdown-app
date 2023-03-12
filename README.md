@@ -3,7 +3,7 @@
 <h4>Special feature</h4> <ul><li>changable background </li></ul>
 <h5>Live: https://dynamic-countdon-app.netlify.app</h5>
 
-<h4>Implemented Tech</h4> -  <ul> <li>html,</li> <li>css,</li> <li>tailwind css</li> <li>javascript and,</li> <li>React</li>
+<h4>Implemented Tech - </h4> <ul> <li>html,</li> <li>css,</li> <li>tailwind css</li> <li>javascript and,</li> <li>React</li>
  
 
 
